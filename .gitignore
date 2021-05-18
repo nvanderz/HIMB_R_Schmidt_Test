@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+#what this does is - what is in this file I do not want version control of these things 
