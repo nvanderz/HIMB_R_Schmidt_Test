@@ -3,4 +3,6 @@
 .RData
 .Ruserdata
 .DS_Store
+
+*.html
 #what this does is - what is in this file I do not want version control of these things 
